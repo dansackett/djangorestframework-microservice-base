@@ -36,7 +36,7 @@ http GET http://<IP ADDRESS>:8000/api/v1/users/
 This should return a response. The following endpoints are provided out of the box:
 
 | Endpoint            | Verb    | Result                                          |
-|:-------------------:|:-------:|:-----------------------------------------------:|
+|---------------------|---------|-------------------------------------------------|
 | /api/v1/users/      | GET     | User List                                       |
 | /api/v1/users/      | POST    | Create a new User                               |
 | /api/v1/users/{pk}/ | GET     | User Detail                                     |
