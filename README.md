@@ -43,7 +43,6 @@ This should return a response. The following endpoints are provided out of the b
 | /api/v1/users/{pk}/ | PUT     | Update an user                                  |
 | /api/v1/users/{pk}/ | PATCH   | Partially Update an User                        |
 | /api/v1/users/{pk}/ | DELETE  | Delete an User                                  |
-| /api/v1/users/{pk}/ | DELETE  | Delete an User                                  |
 | /api/v1/auth/login/ | POST    | Get a new JWT token based on email and password |
 
 ## TODO
